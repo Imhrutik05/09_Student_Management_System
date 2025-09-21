@@ -5,4 +5,4 @@
 ###### Sample Project Link: https://www.figma.com/design/LgMjXkcHbwzJzQoZx1l4b9/Untitled?node-id=0-1&p=f
 
 #### MY DEPLOYED PROJECT LINK (NETLIFY)
---> https://08professionmanagementsystem.netlify.app/
+--> https://09studentmanagementsystem.netlify.app/
